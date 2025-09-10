@@ -27,6 +27,6 @@ To ensure reproducibility, we provide a script (`download_data.py`) that downloa
 
 ## 📥 How to Acces the Data
 1. Install requirements:
-  u go to a new termina and write pip install gdown
+you open a new terminal and write: pip install gdown
 2. run the (`download_data.py`) file 
 
